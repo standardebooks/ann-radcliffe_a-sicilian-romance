@@ -1,2 +1,59 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:verse"] p,
+[epub|type~="z3998:song"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:verse"] p > span,
+[epub|type~="z3998:song"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br,
+[epub|type~="z3998:song"] p > span + br{
+	display: none;
+}
+
+[epub|type~="z3998:poem"] header,
+[epub|type~="z3998:song"] header{
+	margin-bottom: 1em;
+	font-variant: small-caps;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"] + p,
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:sender"],
+[epub|type~="z3998:recipient"],
+[epub|type~="z3998:salutation"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
