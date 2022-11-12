@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/7371</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102677495</dc:source>
-		<meta property="se:word-count">67830</meta>
+		<meta property="se:word-count">67829</meta>
 		<meta property="se:reading-ease.flesch">55.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Sicilian_Romance</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ann-radcliffe_a-sicilian-romance</meta>
