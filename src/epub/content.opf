@@ -52,8 +52,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Ann_Radcliffe</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79056784</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Théodore Gericault</dc:contributor>
-		<meta property="file-as" refines="#artist">Gericault, Théodore</meta>
+		<dc:contributor id="artist">Théodore Géricault</dc:contributor>
+		<meta property="file-as" refines="#artist">Géricault, Théodore</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50016306</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
