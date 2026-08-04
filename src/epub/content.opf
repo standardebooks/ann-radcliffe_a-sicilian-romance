@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008020084</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Two beautiful sisters are forced to live under the control of their tyrannical nobleman father.</dc:abstract>
+		<meta property="schema:abstract">Two beautiful sisters are forced to live under the control of their tyrannical nobleman father.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;A Sicilian Romance&lt;/i&gt; begins when a tourist meets a local monk at the crumbling ruins of the castle Mazzini. The monk invites her to the monastery to view a manuscript that records the mysterious happenings that occurred hundreds of years ago in the once-great castle. The manuscript tells of the plight of two sisters, Julia and Emilia Mazzini, who, after the return of their tyrannical father, witness supernatural phenomena around the castle’s neglected southern wing.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ann-radcliffe"&gt;Radcliffe&lt;/a&gt; was viewed as the greatest writer of the Gothic literary style by most early 19th century critics and literary historians despite &lt;a href="https://standardebooks.org/ebooks/horace-walpole"&gt;Horace Walpole&lt;/a&gt; seemingly “inventing” the genre in &lt;a href="https://standardebooks.org/ebooks/horace-walpole/the-castle-of-otranto"&gt;&lt;i&gt;The Castle of Otranto&lt;/i&gt;&lt;/a&gt;. &lt;i&gt;A Sicilian Romance&lt;/i&gt; was first published anonymously in 1790, making it the second of her published works.&lt;/p&gt;
