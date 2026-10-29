@@ -58,6 +58,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Théodore Géricault</dc:contributor>
 		<meta property="file-as" refines="#artist">Géricault, Théodore</meta>
+		<meta property="schema:alternateName" refines="#artist">Jean-Louis André Théodore Géricault</meta>
 		<link href="https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50016306.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
